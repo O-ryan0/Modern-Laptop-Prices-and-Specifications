@@ -1,4 +1,4 @@
-<h1 align="center"> Análise Preditiva de Preços de Laptops com Processamento de Texto </h1>
+<h1 align="center"> Laptops Dataset for prediction of laptop prices </h1>
 Descrição
 Projeto desenvolvido para a disciplina de Projeto Aplicado II do curso de Banco de Dados da Universidade Presbiteriana Mackenzie, segundo semestre.
 O foco deste projeto é desenvolver uma análise preditiva de preços de laptops, combinando técnicas de análise exploratória de dados (EDA), processamento de linguagem natural (NLP) e aprendizado de máquina.
