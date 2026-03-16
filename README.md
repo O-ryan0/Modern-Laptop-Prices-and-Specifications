@@ -1,6 +1,6 @@
 <h1 align="center"> Laptops Dataset for prediction of laptop prices </h1>
 Descrição
-Projeto desenvolvido para a disciplina de Projeto Aplicado II do curso de Banco de Dados da Universidade Presbiteriana Mackenzie, segundo semestre.
+Projeto desenvolvido para a disciplina de Projeto Aplicado II do curso de Banco de Dados da Universidade Presbiteriana Mackenzie, segundo semestre./n
 O foco deste projeto é desenvolver uma análise preditiva de preços de laptops, combinando técnicas de análise exploratória de dados (EDA), processamento de linguagem natural (NLP) e aprendizado de máquina.
 Os dados utilizados foram extraídos de uma base pública disponível no Kaggle, contendo especificações técnicas detalhadas e preços (em euros) de 1.146 modelos de laptops.
 Dataset disponível em: Laptop Prices
