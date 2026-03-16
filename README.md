@@ -1,7 +1,7 @@
 <h1 align="center"> Análise Preditiva de Preços de Laptops com Processamento de Texto </h1>
 
 ## Descrição
-Projeto desenvolvido para a disciplina de **Projeto Aplicado II** do curso de Banco de Dados da Universidade Presbiteriana Mackenzie, segundo semestre.  
+Projeto desenvolvido para a disciplina de **Projeto Aplicado II** do curso de Banco de Dados da Universidade Presbiteriana Mackenzie, terceiro semestre.  
 O foco deste projeto é desenvolver uma análise preditiva de preços de laptops modernos, combinando técnicas de **análise exploratória de dados (EDA)**, **processamento de linguagem natural (NLP)** e **aprendizado de máquina**.  
 Os dados utilizados foram extraídos de uma base pública disponível no Kaggle, contendo informações detalhadas sobre especificações técnicas e preços de laptops comercializados em 2024.  
 
